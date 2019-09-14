@@ -1,0 +1,72 @@
+Variable,Tipo,Individual,Categoría,Deseabilidad,Descripción
+ZONA,2,0,Construction,1,Urbano/rural
+V1,2,0,Construction,1,Tipo de vivienda
+V2A,2,0,Sociodemographic,4,Tenencia de vivienda
+V2A1,3,0,Sociodemographic,4,Renta
+V3,2,0,Construction,1,Paredes
+V4,2,0,Construction,1,Techo
+V5,2,0,Construction,1,Cielo
+V6,2,0,Construction,1,Suelo
+V7A,2,0,Construction,1,Paredes (estado)
+V7B,2,0,Construction,1,Techo  (estado)
+V7C,2,0,Construction,1,Suelo  (estado)
+V8,3,0,Construction,1,Cuartos
+HacDor,2,0,Sociodemographic,4,Hacinamiento
+V9,3,0,Construction,1,Aposentos
+HacApo,2,0,Sociodemographic,4,Hacinamiento (aposentos)
+V11,2,0,Services,2,Agua (abastecimiento)
+V12,2,0,Services,2,Agua (fuente)
+V13A,2,0,Services,2,Serv sanitario
+V14A,2,0,Services,2,Tenencia serv sanitario
+V15,2,0,Services,2,Electricidad
+V16,2,0,Services,2,Energ�a para cocinar
+V17A,2,0,Services,2,Basura
+V18A,2,0,Assets,3,Celular
+V18A1,3,0,Assets,3,Celulares
+V18B,2,0,Assets,3,Tel�fono
+V18B1,3,0,Assets,3,Tel�fonos
+V18C,2,0,Assets,3,Refrigerador
+V18D,2,0,Services,2,Agua caliente
+V18F,2,0,Assets,3,PC
+V18F1,3,0,Assets,3,PCs
+V18G,2,0,Assets,3,Desktop
+V18G1,3,0,Assets,3,Desktops
+V18Q,2,0,Sociodemographic,4,Tableta
+V18Q1,3,0,Sociodemographic,4,Tabletas
+V18J,2,0,Assets,3,Auto
+V18J1,3,0,Assets,3,Autos
+V18L,2,0,Assets,3,TV HD
+V18L1,3,0,Assets,3,TVs HD
+V18M,2,0,Assets,3,TV
+V18M1,3,0,Assets,3,TVs
+V18O,2,0,Sociodemographic,4,TV cable
+V18P,2,0,Sociodemographic,4,TV sat�lite
+V19,2,0,Services,2,Internet
+V19C,2,0,Assets,3,Router inal�mbrico
+R4H1,3,0,Sociodemographic,4,Hombres menores a 12
+R4H2,3,0,Sociodemographic,4,Hombres mayores a 12
+R4H3,3,0,Sociodemographic,4,Hombres
+R4M1,3,0,Sociodemographic,4,Mujeres menores a 12
+R4M2,3,0,Sociodemographic,4,Mujeres mayores 12
+R4M3,3,0,Sociodemographic,4,Mujeres
+R4T1,3,0,Sociodemographic,4,Menores a 12
+R4T2,3,0,Sociodemographic,4,Mayores a 12
+R4T3,3,0,Sociodemographic,4,Personas
+TamHog,3,0,Sociodemographic,4,Tama�o hogar
+TamViv,3,0,Sociodemographic,4,Tama�o vivienda
+A3,2,1,Sociodemographic,4,Parentezco
+A4,2,1,Sociodemographic,4,Sexo
+A5,3,1,Sociodemographic,4,Edad
+A6,2,1,Sociodemographic,4,Estado civil
+A8A,2,1,Sociodemographic,4,Discapacidad 1
+A8B,2,1,Sociodemographic,4,Discapacidad 2
+NivInst,2,1,Sociodemographic,4,Nivel educaci�n
+Escolari,3,1,Sociodemographic,4,A�os educaci�n
+ForReg,2,1,Sociodemographic,4,Formaci�n educativa
+A16B,2,1,Sociodemographic,4,T�tulo
+A20A,2,1,Sociodemographic,4,Cursos no regulares
+ForNoReg,2,1,Sociodemographic,4,Educaci�n no regular
+REZ_ESC,3,1,Sociodemographic,4,A�os rezago
+A14,2,1,Sociodemographic,4,�ltimo a�o escolar
+A11,2,1,Sociodemographic,4,Aseguramiento
+A13,2,1,Sociodemographic,4,Educaci�n formal
